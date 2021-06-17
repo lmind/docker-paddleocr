@@ -1,4 +1,4 @@
-FROM lmind/docker-paddlepaddle:v1.0
+FROM lmind/docker-paddlepaddle:v1.1
 
 
 RUN \
